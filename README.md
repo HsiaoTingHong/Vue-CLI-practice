@@ -1,4 +1,4 @@
-# Vue-CLI-practice
+# Vue-Cli-practice
 vue dist push to github practice
 
 練習 <br>
